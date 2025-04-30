@@ -46,7 +46,7 @@ Cohort Size: Total customers in each first-month group.
 
 Customer Retention %: Share of retained users across future months.
 
-Payment Success Rate (from payments data — optional).
+Payment Success Rate
 
 How to Use
 
@@ -54,4 +54,4 @@ Open customer_retention_dashboard.csv in Power BI.
 
 Use slicers and charts to explore cohort behaviors.
 
-Modify visuals to include payment data if needed.
+
